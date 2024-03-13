@@ -1,2 +1,3 @@
 # KIP-based-backdoor-attack
-We will upload our code soon!
+Code for the ICLR 2024 paper: "Rethinking Backdoor Attacks on Dataset Distillation: A Kernel Method Perspective".
+Our experiment is presented in the ""
